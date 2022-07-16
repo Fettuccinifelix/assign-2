@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace assign_2
 {
-    internal class Program
+    internal class Evennumbercode
     {
         static void Main(string[] args)
         {
